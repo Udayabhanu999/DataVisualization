@@ -22,7 +22,7 @@ A collection of React + D3 chart components to easily generate data visualizatio
 
 See [App.js](https://github.com/dianaow/d3-react-components/blob/main/src/App.jsx) for sample code for below dashboard layout
 
-![d3-react-library-demo](/d3-react-library-demo.png)
+
 
 ### Setup instructions
 
