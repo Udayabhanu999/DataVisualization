@@ -12,7 +12,6 @@ import BubblePlot from "./components/ChartCircle/BubblePlot";
 import { getStats } from "./utils/stats"
 import { random_item, getRandomIntInclusive } from "./utils/chart-utils"
 import useDropdown from "./components/dropdown/Dropdown"
-
 import './App.css'
 
 const timeFormat = d3.timeFormat("%B %d, %I:%M %p")
