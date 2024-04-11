@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react"
 import * as d3 from "d3"
-
 import ChartWithDims from "./components/Chart/ChartWithDims";
 import { Provider } from "./components/Chart/Provider";
 import LegendPanel from "./components/ChartLegend/LegendPanel"
